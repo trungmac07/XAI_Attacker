@@ -16,11 +16,11 @@ We designed an adversarial attack on a black-box model where the changes in the 
 <table align="center">
   <tr>
     <td align="center">
-      <img src="resources/Dog_Gradient.png" alt="Image 1" width="300px" /><br />
+      <img src="resources/Dog_Gradient.png" alt="Image 1" width="500px" /><br />
       <b>Gradient Based Explanation</b>
     </td>
     <td align="center">
-      <img src="resources/Dog_IG.png" alt="Image 2" width="300px" /><br />
+      <img src="resources/Dog_IG.png" alt="Image 2" width="500px" /><br />
       <b>Integrated Gradient Explanation</b>
     </td>
   </tr>
@@ -29,11 +29,11 @@ We designed an adversarial attack on a black-box model where the changes in the 
 <table align="center">
   <tr>
     <td align="center">
-      <img src="resources/Squirrel_Gradient.png" alt="Image 1" width="300px" /><br />
+      <img src="resources/Squirrel_Gradient.png" alt="Image 1" width="500px" /><br />
       <b>Gradient Based Explanation</b>
     </td>
     <td align="center">
-      <img src="resources/Squirrel_IG.png" alt="Image 2" width="300px" /><br />
+      <img src="resources/Squirrel_IG.png" alt="Image 2" width="500px" /><br />
       <b>Integrated Gradient Explanation</b>
     </td>
   </tr>
